@@ -1,0 +1,26 @@
+{
+  "name": "@codewell/and",
+  "version": "1.0.0",
+  "description": "Check if all conditions or booleans are true",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/and.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/and/issues"
+  },
+  "homepage": "https://github.com/codewell/and#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
